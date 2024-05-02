@@ -7,7 +7,7 @@ This project uses the Edge Impulse machine learning platform to develop a snorin
 
 Before you start, ensure you have the following:
 
-- An Arduino board with microphone support, such as Arduino Nano 33 BLE Sense.
+- An Arduino board with microphone support, such as **Arduino Nano 33 BLE Sense**.
 - Arduino IDE installed on your computer.
 - An active account on Edge Impulse with a project configured for audio processing.
 
