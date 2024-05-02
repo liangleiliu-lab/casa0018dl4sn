@@ -1,5 +1,6 @@
 # casa0018dl4sn
 # Snoring Detection with Edge Impulse
+![Alt Text](https://github.com/liangleiliu-lab/casa0018dl4sn/blob/main/images/image.png)
 
 This project uses the Edge Impulse machine learning platform to develop a snoring detection system. It's implemented on an Arduino board equipped with a microphone. The system captures audio data, processes it through a machine learning model to detect snoring, and activates a buzzer if snoring is detected.
 
